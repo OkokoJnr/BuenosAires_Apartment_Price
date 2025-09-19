@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Large data files (optional, if your CSVs are big)
+data/*.csv

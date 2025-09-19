@@ -1,5 +1,6 @@
 # Buenos Aires Apartment Price Prediction
-
+    # Predicting Price with Size
+    
 ## 📌 Project Overview
 This project is credited to World Quant University an online course session where we build a **linear regression model** to predict the price of apartments in Buenos Aires, focusing only on properties under $400,000 USD located in *Capital Federal*. 
 The aim is to practice reproducible data cleaning, exploratory data analysis, baseline modelling, and linear regression evaluation.
